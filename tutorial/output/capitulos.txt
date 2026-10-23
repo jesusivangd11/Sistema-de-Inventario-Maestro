@@ -1,0 +1,63 @@
+;FFMETADATA1
+title=Tutorial de Catálogo Maestro
+language=spa
+[CHAPTER]
+TIMEBASE=1/1000
+START=49
+END=25895
+title=Introducción
+[CHAPTER]
+TIMEBASE=1/1000
+START=25895
+END=57525
+title=Inicio de sesión y panel principal
+[CHAPTER]
+TIMEBASE=1/1000
+START=57525
+END=114367
+title=Negocios independientes
+[CHAPTER]
+TIMEBASE=1/1000
+START=114367
+END=156283
+title=Registro de un producto
+[CHAPTER]
+TIMEBASE=1/1000
+START=156283
+END=202027
+title=Alta masiva con Excel o CSV
+[CHAPTER]
+TIMEBASE=1/1000
+START=202027
+END=256137
+title=Carga y asociación de fotografías
+[CHAPTER]
+TIMEBASE=1/1000
+START=256137
+END=310776
+title=Variantes por talla y color, y SKU
+[CHAPTER]
+TIMEBASE=1/1000
+START=310776
+END=356117
+title=Inteligencia artificial
+[CHAPTER]
+TIMEBASE=1/1000
+START=356117
+END=395839
+title=Catálogos PDF
+[CHAPTER]
+TIMEBASE=1/1000
+START=395839
+END=469521
+title=Exportar a Mercado Libre y TikTok Shop
+[CHAPTER]
+TIMEBASE=1/1000
+START=469521
+END=556616
+title=Validación de errores y recomendaciones
+[CHAPTER]
+TIMEBASE=1/1000
+START=556616
+END=578899
+title=Cierre

@@ -1,0 +1,12 @@
+node_modules/
+web/dist/
+.env
+.data/
+storage/
+*.log
+coverage/
+tutorial/node_modules/
+tutorial/output/cuadros/
+tutorial/output/*.mp4
+tutorial/output/*.wav
+tutorial/output/narracion/

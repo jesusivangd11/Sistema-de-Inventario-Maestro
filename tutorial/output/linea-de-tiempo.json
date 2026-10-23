@@ -1,0 +1,418 @@
+{
+  "end": 578.8989999294281,
+  "timeline": [
+    {
+      "id": "intro-1",
+      "chapter": 0,
+      "text": "Bienvenido a Catálogo Maestro, la plataforma para administrar los catálogos de todos tus negocios en un solo lugar.",
+      "start": 0.04900002479553223,
+      "duration": 7.618956916099774
+    },
+    {
+      "id": "intro-2",
+      "chapter": 0,
+      "text": "En este tutorial aprenderás, paso a paso, a registrar tu mercancía, organizarla, crear catálogos y preparar tus archivos para Mercado Libre y TikTok Shop.",
+      "start": 8.125,
+      "duration": 11.128866213151927
+    },
+    {
+      "id": "intro-3",
+      "chapter": 0,
+      "text": "Todos los datos que verás son ficticios, creados solo para este ejemplo.",
+      "start": 19.707000017166138,
+      "duration": 5.0292063492063495
+    },
+    {
+      "id": "c1-titulo",
+      "chapter": 1,
+      "text": "Capítulo 1. Inicio de sesión y panel principal.",
+      "start": 25.894999980926514,
+      "duration": 4.554240362811791
+    },
+    {
+      "id": "c1-login",
+      "chapter": 1,
+      "text": "Abre la aplicación en tu navegador e inicia sesión con tu correo y tu contraseña.",
+      "start": 31.371999979019165,
+      "duration": 5.309115646258503
+    },
+    {
+      "id": "c1-panel",
+      "chapter": 1,
+      "text": "Este es el panel principal. Muestra cifras reales: cuántos productos y variantes tienes, cuáles están agotados, cuáles están incompletos y la actividad reciente.",
+      "start": 37.14699983596802,
+      "duration": 11.668707482993197
+    },
+    {
+      "id": "c1-menu",
+      "chapter": 1,
+      "text": "A la izquierda está el menú. Arriba encontrarás el selector de negocio, para cambiar de tienda en cualquier momento.",
+      "start": 49.27300000190735,
+      "duration": 7.798956916099773
+    },
+    {
+      "id": "c2-titulo",
+      "chapter": 2,
+      "text": "Capítulo 2. Negocios independientes.",
+      "start": 57.52499985694885,
+      "duration": 4.119297052154195
+    },
+    {
+      "id": "c2-intro",
+      "chapter": 2,
+      "text": "Cada negocio tiene su propio catálogo, precios, fotos e inventario, completamente separados de los demás. Vamos a crear uno nuevo.",
+      "start": 62.55999994277954,
+      "duration": 9.968956916099772
+    },
+    {
+      "id": "c2-form",
+      "chapter": 2,
+      "text": "Escribe el nombre comercial, una breve descripción de lo que vendes, y elige el color de tu marca.",
+      "start": 72.99300003051758,
+      "duration": 6.559070294784581
+    },
+    {
+      "id": "c2-logo",
+      "chapter": 2,
+      "text": "Listo, el negocio ya existe. En Configuración subes tu logotipo y defines cómo se generan los códigos SKU de tus productos.",
+      "start": 80.36899995803833,
+      "duration": 9.598934240362812
+    },
+    {
+      "id": "c2-cat",
+      "chapter": 2,
+      "text": "Las categorías organizan tu catálogo. Creamos la categoría Pijamas, con un dato propio: la composición de la tela.",
+      "start": 90.4210000038147,
+      "duration": 8.853968253968254
+    },
+    {
+      "id": "c2-switch",
+      "chapter": 2,
+      "text": "Si administras varias tiendas, cambias entre ellas desde el selector. Por ejemplo, Fajas Bella Forma muestra únicamente sus propios productos.",
+      "start": 99.73499989509583,
+      "duration": 10.163786848072561
+    },
+    {
+      "id": "c2-back",
+      "chapter": 2,
+      "text": "Regresamos a Boutique Luna para seguir trabajando.",
+      "start": 110.35399985313416,
+      "duration": 3.559251700680272
+    },
+    {
+      "id": "c3-titulo",
+      "chapter": 3,
+      "text": "Capítulo 3. Registro de un producto.",
+      "start": 114.36699986457825,
+      "duration": 3.9893197278911563
+    },
+    {
+      "id": "c3-nuevo",
+      "chapter": 3,
+      "text": "Para registrar un producto, entra a Productos y presiona Nuevo producto.",
+      "start": 119.27499985694885,
+      "duration": 5.074126984126984
+    },
+    {
+      "id": "c3-datos",
+      "chapter": 3,
+      "text": "Escribe el nombre comercial, la marca y el modelo. Si no conoces un dato, déjalo vacío: el sistema nunca lo inventa.",
+      "start": 124.80299997329712,
+      "duration": 9.283990929705215
+    },
+    {
+      "id": "c3-cat",
+      "chapter": 3,
+      "text": "Elige la categoría. Al hacerlo, aparecen sus campos propios, como la composición.",
+      "start": 134.53799986839294,
+      "duration": 7.009160997732426
+    },
+    {
+      "id": "c3-precio",
+      "chapter": 3,
+      "text": "Captura el costo, que es privado y nunca aparece en catálogos ni exportaciones, y el precio de venta.",
+      "start": 142.0019998550415,
+      "duration": 7.093990929705216
+    },
+    {
+      "id": "c3-guardar",
+      "chapter": 3,
+      "text": "Al guardar, el sistema asigna automáticamente el código SKU según la regla del negocio.",
+      "start": 149.5569999217987,
+      "duration": 6.269070294784581
+    },
+    {
+      "id": "c4-titulo",
+      "chapter": 4,
+      "text": "Capítulo 4. Alta masiva con Excel o CSV.",
+      "start": 156.2829999923706,
+      "duration": 4.93421768707483
+    },
+    {
+      "id": "c4-lote",
+      "chapter": 4,
+      "text": "Cuando llega mucha mercancía, usa Alta masiva. Crea un lote y, si quieres, asígnalo a una temporada.",
+      "start": 162.13899993896484,
+      "duration": 8.274104308390022
+    },
+    {
+      "id": "c4-excel",
+      "chapter": 4,
+      "text": "En tu Excel, cada fila es una variante. Las filas con el mismo grupo se convierten en un solo producto, y la columna fotos indica qué imágenes le corresponden. Aquí puedes descargar una plantilla de ejemplo.",
+      "start": 170.86500000953674,
+      "duration": 14.47859410430839
+    },
+    {
+      "id": "c4-subir",
+      "chapter": 4,
+      "text": "Subimos el archivo. El sistema reconoce las columnas automáticamente, y puedes corregir cualquier asignación antes de importar.",
+      "start": 185.79999995231628,
+      "duration": 9.143877551020408
+    },
+    {
+      "id": "c4-importar",
+      "chapter": 4,
+      "text": "Seis filas del Excel se convierten en tres productos con sus variantes, listos para revisar.",
+      "start": 195.40599989891052,
+      "duration": 6.159024943310658
+    },
+    {
+      "id": "c5-titulo",
+      "chapter": 5,
+      "text": "Capítulo 5. Carga y asociación de fotografías.",
+      "start": 202.02699995040894,
+      "duration": 4.789183673469387
+    },
+    {
+      "id": "c5-subir",
+      "chapter": 5,
+      "text": "Ahora subimos las fotografías. Puedes arrastrarlas desde tu computadora o tomarlas con el celular. El sistema revisa cada imagen y detecta fotos repetidas.",
+      "start": 207.72399997711182,
+      "duration": 11.42873015873016
+    },
+    {
+      "id": "c5-asociar",
+      "chapter": 5,
+      "text": "Las fotos que aparecen en el Excel se asociaron solas a su producto. Las que sobran se agrupan por nombre de archivo o por parecido con el botón Agrupar fotos.",
+      "start": 219.60999989509583,
+      "duration": 10.273877551020409
+    },
+    {
+      "id": "c5-tabla",
+      "chapter": 5,
+      "text": "En la tabla de revisión ves cada producto con sus fotos. Funciona como una hoja de cálculo: escribes directamente, y también puedes copiar y pegar desde Excel. Completemos la bufanda.",
+      "start": 230.33899998664856,
+      "duration": 13.298662131519274
+    },
+    {
+      "id": "c5-validar",
+      "chapter": 5,
+      "text": "Pasamos a validar. El sistema revisa los campos obligatorios, los precios y los posibles duplicados. Si todo está bien, confirmamos la importación.",
+      "start": 244.0920000076294,
+      "duration": 11.593832199546485
+    },
+    {
+      "id": "c6-titulo",
+      "chapter": 6,
+      "text": "Capítulo 6. Variantes por talla y color, y SKU.",
+      "start": 256.13699984550476,
+      "duration": 5.25421768707483
+    },
+    {
+      "id": "c6-generar",
+      "chapter": 6,
+      "text": "Volvemos a la pijama. En la pestaña Variantes escribimos los colores y las tallas disponibles, y el sistema crea todas las combinaciones dentro de la misma ficha.",
+      "start": 262.3090000152588,
+      "duration": 10.72875283446712
+    },
+    {
+      "id": "c6-guardar",
+      "chapter": 6,
+      "text": "Al guardar, cada variante recibe su propio SKU, por ejemplo PIJ-001-ROS-CH para la pijama rosa en talla chica. Puedes ajustar existencias, código de barras o precio de cada una.",
+      "start": 273.49199986457825,
+      "duration": 12.113560090702947
+    },
+    {
+      "id": "c6-fotos",
+      "chapter": 6,
+      "text": "En Fotografías subimos las imágenes del producto, y podemos indicar qué foto corresponde a cada color.",
+      "start": 286.0569999217987,
+      "duration": 6.8340589569161
+    },
+    {
+      "id": "c7-titulo",
+      "chapter": 7,
+      "text": "Capítulo 7. Inteligencia artificial.",
+      "start": 310.7760000228882,
+      "duration": 4.194263038548753
+    },
+    {
+      "id": "c7-que",
+      "chapter": 7,
+      "text": "Catálogo Maestro incluye inteligencia artificial: analiza las fotos de cada producto y propone el nombre, la categoría, la descripción, las palabras clave y las características visibles.",
+      "start": 315.8899998664856,
+      "duration": 12.668526077097505
+    },
+    {
+      "id": "c7-clave",
+      "chapter": 7,
+      "text": "En este video la IA todavía no está activada, por eso aparece este aviso. Para activarla, quien instala el sistema agrega una clave de Anthropic en la configuración del servidor.",
+      "start": 329.0199999809265,
+      "duration": 11.783718820861678
+    },
+    {
+      "id": "c7-uso",
+      "chapter": 7,
+      "text": "Ya activada, seleccionas las filas y presionas Analizar con IA. Las sugerencias quedan marcadas para revisión, y nada se da por bueno hasta que tú lo confirmas. La IA nunca inventa marcas ni materiales.",
+      "start": 341.26199984550476,
+      "duration": 14.403582766439909
+    },
+    {
+      "id": "c8-titulo",
+      "chapter": 8,
+      "text": "Capítulo 8. Catálogos PDF.",
+      "start": 356.11699986457825,
+      "duration": 3.7992743764172334
+    },
+    {
+      "id": "c8-crear",
+      "chapter": 8,
+      "text": "Para compartir tu mercancía, crea un catálogo comercial. Le damos un título y elegimos los productos.",
+      "start": 360.8269999027252,
+      "duration": 7.904013605442177
+    },
+    {
+      "id": "c8-diseno",
+      "chapter": 8,
+      "text": "Puedes ordenar los productos, elegir el diseño y decidir si se muestran los precios. Los costos nunca aparecen.",
+      "start": 370.5620000362396,
+      "duration": 8.323990929705216
+    },
+    {
+      "id": "c8-pdf",
+      "chapter": 8,
+      "text": "Al descargar el PDF obtienes un catálogo con tu logotipo y tus colores, listo para enviar a tus clientes.",
+      "start": 379.34999990463257,
+      "duration": 7.313922902494331
+    },
+    {
+      "id": "c8-enlace",
+      "chapter": 8,
+      "text": "También puedes crear un enlace público para compartirlo por WhatsApp o redes sociales. Puedes desactivarlo cuando quieras.",
+      "start": 387.1199998855591,
+      "duration": 8.258866213151927
+    },
+    {
+      "id": "c9-titulo",
+      "chapter": 9,
+      "text": "Capítulo 9. Exportar a Mercado Libre y TikTok Shop.",
+      "start": 395.83899998664856,
+      "duration": 5.094240362811791
+    },
+    {
+      "id": "c9-categoria",
+      "chapter": 9,
+      "text": "Para Mercado Libre, cada producto necesita su categoría. En la ficha, pestaña Canales de venta, el botón Sugerir consulta el servicio oficial de Mercado Libre.",
+      "start": 401.84699988365173,
+      "duration": 11.48374149659864
+    },
+    {
+      "id": "c9-atributos",
+      "chapter": 9,
+      "text": "Aparecen los datos que esa categoría exige. Los que ya están en la ficha, como marca, color o talla, se toman solos. Completamos el resto y guardamos.",
+      "start": 413.79199981689453,
+      "duration": 12.118684807256235
+    },
+    {
+      "id": "c9-validar",
+      "chapter": 9,
+      "text": "En la sección Mercado Libre elegimos los productos. El sistema los valida contra los requisitos oficiales de cada categoría antes de generar nada.",
+      "start": 426.36299991607666,
+      "duration": 9.63875283446712
+    },
+    {
+      "id": "c9-generar",
+      "chapter": 9,
+      "text": "La pijama está lista. La chamarra todavía no tiene categoría, así que queda fuera del archivo. Generamos el archivo solo con los productos válidos.",
+      "start": 436.460000038147,
+      "duration": 10.953764172335601
+    },
+    {
+      "id": "c9-tiktok",
+      "chapter": 9,
+      "text": "Para TikTok Shop, descarga desde Seller Center la plantilla oficial de tu categoría y súbela aquí. En este video usamos una plantilla de demostración con la misma estructura.",
+      "start": 447.8659999370575,
+      "duration": 11.593673469387754
+    },
+    {
+      "id": "c9-mapeo",
+      "chapter": 9,
+      "text": "El sistema detecta las columnas obligatorias y propone de qué dato del catálogo se llena cada una. Revisamos el mapeo y lo guardamos.",
+      "start": 459.9099998474121,
+      "duration": 9.15891156462585
+    },
+    {
+      "id": "c10-titulo",
+      "chapter": 10,
+      "text": "Capítulo 10. Validación de errores y recomendaciones.",
+      "start": 469.52099990844727,
+      "duration": 4.949251700680272
+    },
+    {
+      "id": "c10-errores",
+      "chapter": 10,
+      "text": "Al validar con la plantilla aparecen los errores, con una explicación exacta. Aquí, la columna Category es obligatoria y no tiene valor.",
+      "start": 475.385999917984,
+      "duration": 9.92374149659864
+    },
+    {
+      "id": "c10-corregir",
+      "chapter": 10,
+      "text": "Lo corregimos en el mapeo: indicamos que esa columna se llene con la categoría del producto. Y volvemos a validar.",
+      "start": 488.2170000076294,
+      "duration": 8.118956916099773
+    },
+    {
+      "id": "c10-listo",
+      "chapter": 10,
+      "text": "La pijama ya está lista. A la chamarra le falta el peso del paquete: se corrige en su ficha. Generamos el archivo con los productos válidos.",
+      "start": 501.646999835968,
+      "duration": 10.608866213151927
+    },
+    {
+      "id": "c10-fotos",
+      "chapter": 10,
+      "text": "Revisa siempre los avisos. Este indica que las fotos todavía no tienen una dirección pública en internet. Los marketplaces descargan las imágenes desde ahí, así que el sistema debe estar publicado en un servidor antes de subir el archivo.",
+      "start": 512.7149999141693,
+      "duration": 15.66344671201814
+    },
+    {
+      "id": "c10-recom",
+      "chapter": 10,
+      "text": "Recomendaciones: prueba primero con uno o dos productos, abre el archivo en Excel para revisarlo, y usa el reporte de errores del marketplace. Recuerda que generar el archivo no publica nada: tú lo subes a cada plataforma.",
+      "start": 528.8329999446869,
+      "duration": 15.07857142857143
+    },
+    {
+      "id": "c10-vincular",
+      "chapter": 10,
+      "text": "Después de publicar, en la pestaña Vincular IDs pegas el SKU y el número de publicación de cada producto. Así sabrás qué está publicado en cada canal.",
+      "start": 545.077999830246,
+      "duration": 11.073650793650794
+    },
+    {
+      "id": "cierre-1",
+      "chapter": 11,
+      "text": "¡Listo! Ya sabes crear tus negocios, registrar productos uno por uno o de forma masiva, organizar tus fotos y variantes, crear catálogos y preparar tus archivos para Mercado Libre y TikTok Shop.",
+      "start": 556.6159999370575,
+      "duration": 13.883628117913831
+    },
+    {
+      "id": "cierre-2",
+      "chapter": 11,
+      "text": "Recuerda hacer respaldos periódicos de tu información. Gracias por ver este tutorial.",
+      "start": 570.960000038147,
+      "duration": 6.279115646258504
+    }
+  ]
+}

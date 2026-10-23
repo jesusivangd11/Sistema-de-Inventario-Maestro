@@ -1,0 +1,667 @@
+1
+00:00:00,049 --> 00:00:05,262
+Bienvenido a Catálogo Maestro, la
+plataforma para administrar los catálogos de
+
+2
+00:00:05,262 --> 00:00:07,668
+todos tus negocios en un solo lugar.
+
+3
+00:00:08,125 --> 00:00:13,944
+En este tutorial aprenderás, paso a
+paso, a registrar tu mercancía, organizarla,
+
+4
+00:00:13,944 --> 00:00:19,254
+crear catálogos y preparar tus
+archivos para Mercado Libre y TikTok Shop.
+
+5
+00:00:19,707 --> 00:00:24,736
+Todos los datos que verás son
+ficticios, creados solo para este ejemplo.
+
+6
+00:00:25,895 --> 00:00:26,984
+Capítulo 1.
+
+7
+00:00:26,984 --> 00:00:30,449
+Inicio de sesión y panel principal.
+
+8
+00:00:31,372 --> 00:00:36,681
+Abre la aplicación en tu navegador e
+inicia sesión con tu correo y tu contraseña.
+
+9
+00:00:37,147 --> 00:00:39,141
+Este es el panel principal.
+
+10
+00:00:39,141 --> 00:00:40,766
+Muestra cifras reales:
+
+11
+00:00:40,766 --> 00:00:46,157
+cuántos productos y variantes
+tienes, cuáles están agotados, cuáles están
+
+12
+00:00:46,157 --> 00:00:48,816
+incompletos y la actividad reciente.
+
+13
+00:00:49,273 --> 00:00:51,172
+A la izquierda está el menú.
+
+14
+00:00:51,172 --> 00:00:57,072
+Arriba encontrarás el selector de negocio,
+para cambiar de tienda en cualquier momento.
+
+15
+00:00:57,525 --> 00:00:58,820
+Capítulo 2.
+
+16
+00:00:58,820 --> 00:01:01,644
+Negocios independientes.
+
+17
+00:01:02,560 --> 00:01:07,778
+Cada negocio tiene su propio
+catálogo, precios, fotos e inventario,
+
+18
+00:01:07,778 --> 00:01:10,660
+completamente separados de los demás.
+
+19
+00:01:10,660 --> 00:01:12,529
+Vamos a crear uno nuevo.
+
+20
+00:01:12,993 --> 00:01:18,335
+Escribe el nombre comercial, una breve
+descripción de lo que vendes, y elige el
+
+21
+00:01:18,335 --> 00:01:19,552
+color de tu marca.
+
+22
+00:01:20,369 --> 00:01:22,590
+Listo, el negocio ya existe.
+
+23
+00:01:22,590 --> 00:01:28,857
+En Configuración subes tu logotipo y
+defines cómo se generan los códigos SKU de
+
+24
+00:01:28,857 --> 00:01:29,968
+tus productos.
+
+25
+00:01:30,421 --> 00:01:33,346
+Las categorías organizan tu catálogo.
+
+26
+00:01:33,346 --> 00:01:37,220
+Creamos la categoría
+Pijamas, con un dato propio:
+
+27
+00:01:37,220 --> 00:01:39,275
+la composición de la tela.
+
+28
+00:01:39,735 --> 00:01:44,709
+Si administras varias tiendas,
+cambias entre ellas desde el selector.
+
+29
+00:01:44,709 --> 00:01:49,899
+Por ejemplo, Fajas Bella Forma
+muestra únicamente sus propios productos.
+
+30
+00:01:50,354 --> 00:01:53,913
+Regresamos a Boutique
+Luna para seguir trabajando.
+
+31
+00:01:54,367 --> 00:01:55,621
+Capítulo 3.
+
+32
+00:01:55,621 --> 00:01:58,356
+Registro de un producto.
+
+33
+00:01:59,275 --> 00:02:04,349
+Para registrar un producto, entra a
+Productos y presiona Nuevo producto.
+
+34
+00:02:04,803 --> 00:02:08,875
+Escribe el nombre
+comercial, la marca y el modelo.
+
+35
+00:02:08,875 --> 00:02:11,807
+Si no conoces un dato, déjalo vacío:
+
+36
+00:02:11,807 --> 00:02:14,087
+el sistema nunca lo inventa.
+
+37
+00:02:14,538 --> 00:02:16,203
+Elige la categoría.
+
+38
+00:02:16,203 --> 00:02:21,547
+Al hacerlo, aparecen sus
+campos propios, como la composición.
+
+39
+00:02:22,002 --> 00:02:27,606
+Captura el costo, que es privado y
+nunca aparece en catálogos ni exportaciones,
+
+40
+00:02:27,606 --> 00:02:29,096
+y el precio de venta.
+
+41
+00:02:29,557 --> 00:02:35,826
+Al guardar, el sistema asigna
+automáticamente el código SKU según la regla del negocio.
+
+42
+00:02:36,283 --> 00:02:37,675
+Capítulo 4.
+
+43
+00:02:37,675 --> 00:02:41,217
+Alta masiva con Excel o CSV.
+
+44
+00:02:42,139 --> 00:02:45,984
+Cuando llega mucha
+mercancía, usa Alta masiva.
+
+45
+00:02:45,984 --> 00:02:50,413
+Crea un lote y, si
+quieres, asígnalo a una temporada.
+
+46
+00:02:50,865 --> 00:02:53,633
+En tu Excel, cada fila es una variante.
+
+47
+00:02:53,633 --> 00:02:59,027
+Las filas con el mismo grupo se
+convierten en un solo producto, y la columna
+
+48
+00:02:59,027 --> 00:03:02,008
+fotos indica qué imágenes le corresponden.
+
+49
+00:03:02,008 --> 00:03:05,344
+Aquí puedes descargar
+una plantilla de ejemplo.
+
+50
+00:03:05,800 --> 00:03:07,190
+Subimos el archivo.
+
+51
+00:03:07,190 --> 00:03:12,822
+El sistema reconoce las columnas
+automáticamente, y puedes corregir cualquier
+
+52
+00:03:12,822 --> 00:03:14,944
+asignación antes de importar.
+
+53
+00:03:15,406 --> 00:03:20,685
+Seis filas del Excel se convierten en
+tres productos con sus variantes, listos
+
+54
+00:03:20,685 --> 00:03:21,565
+para revisar.
+
+55
+00:03:22,027 --> 00:03:23,198
+Capítulo 5.
+
+56
+00:03:23,198 --> 00:03:26,816
+Carga y asociación de fotografías.
+
+57
+00:03:27,724 --> 00:03:29,965
+Ahora subimos las fotografías.
+
+58
+00:03:29,965 --> 00:03:34,970
+Puedes arrastrarlas desde tu
+computadora o tomarlas con el celular.
+
+59
+00:03:34,970 --> 00:03:39,153
+El sistema revisa cada
+imagen y detecta fotos repetidas.
+
+60
+00:03:39,610 --> 00:03:44,032
+Las fotos que aparecen en el Excel
+se asociaron solas a su producto.
+
+61
+00:03:44,032 --> 00:03:49,884
+Las que sobran se agrupan por nombre de
+archivo o por parecido con el botón Agrupar fotos.
+
+62
+00:03:50,339 --> 00:03:54,476
+En la tabla de revisión ves
+cada producto con sus fotos.
+
+63
+00:03:54,476 --> 00:03:56,988
+Funciona como una hoja de cálculo:
+
+64
+00:03:56,988 --> 00:04:01,938
+escribes directamente, y también
+puedes copiar y pegar desde Excel.
+
+65
+00:04:01,938 --> 00:04:03,638
+Completemos la bufanda.
+
+66
+00:04:04,092 --> 00:04:05,531
+Pasamos a validar.
+
+67
+00:04:05,531 --> 00:04:12,008
+El sistema revisa los campos
+obligatorios, los precios y los posibles duplicados.
+
+68
+00:04:12,008 --> 00:04:15,686
+Si todo está bien,
+confirmamos la importación.
+
+69
+00:04:16,137 --> 00:04:17,393
+Capítulo 6.
+
+70
+00:04:17,393 --> 00:04:21,391
+Variantes por talla y color, y SKU.
+
+71
+00:04:22,309 --> 00:04:23,717
+Volvemos a la pijama.
+
+72
+00:04:23,717 --> 00:04:28,880
+En la pestaña Variantes escribimos los
+colores y las tallas disponibles, y el
+
+73
+00:04:28,880 --> 00:04:33,038
+sistema crea todas las
+combinaciones dentro de la misma ficha.
+
+74
+00:04:33,492 --> 00:04:38,960
+Al guardar, cada variante recibe su
+propio SKU, por ejemplo PIJ-001-ROS-CH para
+
+75
+00:04:38,960 --> 00:04:41,037
+la pijama rosa en talla chica.
+
+76
+00:04:41,037 --> 00:04:45,606
+Puedes ajustar existencias,
+código de barras o precio de cada una.
+
+77
+00:04:46,057 --> 00:04:51,199
+En Fotografías subimos las imágenes
+del producto, y podemos indicar qué foto
+
+78
+00:04:51,199 --> 00:04:52,891
+corresponde a cada color.
+
+79
+00:05:10,776 --> 00:05:12,094
+Capítulo 7.
+
+80
+00:05:12,094 --> 00:05:14,970
+Inteligencia artificial.
+
+81
+00:05:15,890 --> 00:05:19,264
+Catálogo Maestro incluye
+inteligencia artificial:
+
+82
+00:05:19,264 --> 00:05:24,221
+analiza las fotos de cada producto y
+propone el nombre, la categoría, la
+
+83
+00:05:24,221 --> 00:05:28,559
+descripción, las palabras clave
+y las características visibles.
+
+84
+00:05:29,020 --> 00:05:33,908
+En este video la IA todavía no está
+activada, por eso aparece este aviso.
+
+85
+00:05:33,908 --> 00:05:38,996
+Para activarla, quien instala el
+sistema agrega una clave de Anthropic en la
+
+86
+00:05:38,996 --> 00:05:40,804
+configuración del servidor.
+
+87
+00:05:41,262 --> 00:05:45,822
+Ya activada, seleccionas las
+filas y presionas Analizar con IA.
+
+88
+00:05:45,822 --> 00:05:51,540
+Las sugerencias quedan marcadas para
+revisión, y nada se da por bueno hasta que
+
+89
+00:05:51,540 --> 00:05:52,698
+tú lo confirmas.
+
+90
+00:05:52,698 --> 00:05:55,666
+La IA nunca inventa marcas ni materiales.
+
+91
+00:05:56,117 --> 00:05:57,789
+Capítulo 8.
+
+92
+00:05:57,789 --> 00:05:59,916
+Catálogos PDF.
+
+93
+00:06:00,827 --> 00:06:05,253
+Para compartir tu mercancía,
+crea un catálogo comercial.
+
+94
+00:06:05,253 --> 00:06:08,731
+Le damos un título y elegimos los productos.
+
+95
+00:06:10,562 --> 00:06:16,919
+Puedes ordenar los productos, elegir el
+diseño y decidir si se muestran los precios.
+
+96
+00:06:16,919 --> 00:06:18,886
+Los costos nunca aparecen.
+
+97
+00:06:19,350 --> 00:06:24,765
+Al descargar el PDF obtienes un
+catálogo con tu logotipo y tus colores, listo
+
+98
+00:06:24,765 --> 00:06:26,664
+para enviar a tus clientes.
+
+99
+00:06:27,120 --> 00:06:32,990
+También puedes crear un enlace público para
+compartirlo por WhatsApp o redes sociales.
+
+100
+00:06:32,990 --> 00:06:35,379
+Puedes desactivarlo cuando quieras.
+
+101
+00:06:35,839 --> 00:06:36,960
+Capítulo 9.
+
+102
+00:06:36,960 --> 00:06:40,933
+Exportar a Mercado Libre y TikTok Shop.
+
+103
+00:06:41,847 --> 00:06:45,943
+Para Mercado Libre, cada
+producto necesita su categoría.
+
+104
+00:06:45,943 --> 00:06:51,502
+En la ficha, pestaña Canales de venta,
+el botón Sugerir consulta el servicio
+
+105
+00:06:51,502 --> 00:06:53,331
+oficial de Mercado Libre.
+
+106
+00:06:53,792 --> 00:06:57,313
+Aparecen los datos que esa categoría exige.
+
+107
+00:06:57,313 --> 00:07:03,209
+Los que ya están en la ficha, como
+marca, color o talla, se toman solos.
+
+108
+00:07:03,209 --> 00:07:05,911
+Completamos el resto y guardamos.
+
+109
+00:07:06,363 --> 00:07:09,777
+En la sección Mercado
+Libre elegimos los productos.
+
+110
+00:07:09,777 --> 00:07:15,132
+El sistema los valida contra los
+requisitos oficiales de cada categoría antes de
+
+111
+00:07:15,132 --> 00:07:16,002
+generar nada.
+
+112
+00:07:16,460 --> 00:07:18,046
+La pijama está lista.
+
+113
+00:07:18,046 --> 00:07:23,486
+La chamarra todavía no tiene
+categoría, así que queda fuera del archivo.
+
+114
+00:07:23,486 --> 00:07:27,414
+Generamos el archivo solo
+con los productos válidos.
+
+115
+00:07:27,866 --> 00:07:32,787
+Para TikTok Shop, descarga desde
+Seller Center la plantilla oficial de tu
+
+116
+00:07:32,787 --> 00:07:34,404
+categoría y súbela aquí.
+
+117
+00:07:34,404 --> 00:07:39,460
+En este video usamos una plantilla de
+demostración con la misma estructura.
+
+118
+00:07:39,910 --> 00:07:45,433
+El sistema detecta las columnas
+obligatorias y propone de qué dato del catálogo
+
+119
+00:07:45,433 --> 00:07:46,692
+se llena cada una.
+
+120
+00:07:46,692 --> 00:07:49,069
+Revisamos el mapeo y lo guardamos.
+
+121
+00:07:49,521 --> 00:07:50,663
+Capítulo 10.
+
+122
+00:07:50,663 --> 00:07:54,470
+Validación de errores y recomendaciones.
+
+123
+00:07:55,386 --> 00:08:01,046
+Al validar con la plantilla aparecen
+los errores, con una explicación exacta.
+
+124
+00:08:01,046 --> 00:08:05,310
+Aquí, la columna Category es
+obligatoria y no tiene valor.
+
+125
+00:08:08,217 --> 00:08:10,102
+Lo corregimos en el mapeo:
+
+126
+00:08:10,102 --> 00:08:14,814
+indicamos que esa columna se
+llene con la categoría del producto.
+
+127
+00:08:14,814 --> 00:08:16,336
+Y volvemos a validar.
+
+128
+00:08:21,647 --> 00:08:23,505
+La pijama ya está lista.
+
+129
+00:08:23,505 --> 00:08:26,835
+A la chamarra le falta el peso del paquete:
+
+130
+00:08:26,835 --> 00:08:28,616
+se corrige en su ficha.
+
+131
+00:08:28,616 --> 00:08:32,256
+Generamos el archivo
+con los productos válidos.
+
+132
+00:08:32,715 --> 00:08:34,448
+Revisa siempre los avisos.
+
+133
+00:08:34,448 --> 00:08:39,647
+Este indica que las fotos todavía no
+tienen una dirección pública en internet.
+
+134
+00:08:39,647 --> 00:08:44,979
+Los marketplaces descargan las imágenes
+desde ahí, así que el sistema debe estar
+
+135
+00:08:44,979 --> 00:08:48,378
+publicado en un servidor
+antes de subir el archivo.
+
+136
+00:08:48,833 --> 00:08:49,940
+Recomendaciones:
+
+137
+00:08:49,940 --> 00:08:55,473
+prueba primero con uno o dos productos,
+abre el archivo en Excel para revisarlo,
+
+138
+00:08:55,473 --> 00:08:58,516
+y usa el reporte de errores del marketplace.
+
+139
+00:08:58,516 --> 00:09:01,837
+Recuerda que generar el
+archivo no publica nada:
+
+140
+00:09:01,837 --> 00:09:03,912
+tú lo subes a cada plataforma.
+
+141
+00:09:05,078 --> 00:09:10,690
+Después de publicar, en la pestaña
+Vincular IDs pegas el SKU y el número de
+
+142
+00:09:10,690 --> 00:09:12,859
+publicación de cada producto.
+
+143
+00:09:12,859 --> 00:09:16,152
+Así sabrás qué está publicado en cada canal.
+
+144
+00:09:16,616 --> 00:09:17,125
+¡Listo!
+
+145
+00:09:17,125 --> 00:09:22,867
+Ya sabes crear tus negocios, registrar
+productos uno por uno o de forma masiva,
+
+146
+00:09:22,867 --> 00:09:28,464
+organizar tus fotos y variantes, crear
+catálogos y preparar tus archivos para
+
+147
+00:09:28,464 --> 00:09:30,500
+Mercado Libre y TikTok Shop.
+
+148
+00:09:30,960 --> 00:09:34,997
+Recuerda hacer respaldos
+periódicos de tu información.
+
+149
+00:09:34,997 --> 00:09:37,239
+Gracias por ver este tutorial.
